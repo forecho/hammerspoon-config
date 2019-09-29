@@ -23,3 +23,10 @@
 * <kbd>Control</kbd><kbd>Shift</kbd> + <kbd>P</kbd> `PHPStorm`
 * <kbd>Control</kbd><kbd>Shift</kbd> + <kbd>W</kbd> `WeChat`
 * <kbd>Control</kbd><kbd>Shift</kbd> + <kbd>Q</kbd> `QQ`
+
+
+### 切换输入法
+
+* <kbd>Control</kbd><kbd>Shift</kbd> + <kbd>S</kbd> `搜狗输入法`
+* <kbd>Control</kbd><kbd>Shift</kbd> + <kbd>E</kbd> `系统 ABC`
+* <kbd>Control</kbd><kbd>Shift</kbd> + <kbd>.</kbd> `系统 ABC、系统简体中文，搜狗输入法轮流切换`

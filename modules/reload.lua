@@ -1,4 +1,4 @@
-function reloadConfig(paths)
+local function reloadConfig(paths)
     doReload = false
     for _,file in pairs(paths) do
         if file:sub(-4) == ".lua" then
@@ -16,4 +16,3 @@ end
 
 configFileWatcher = hs.pathwatcher.new(os.getenv("HOME") .. "/.hammerspoon/", reloadConfig)
 configFileWatcher:start()
-

@@ -1,5 +1,6 @@
 windowHotkey = {'control','command'}
 launcherHotkey = {'control', 'shift'}
+inputHotkey = {'control', 'shift'}
 
 applist = {
     {shortcut = 'Q',appname = 'QQ'},
