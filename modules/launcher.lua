@@ -1,0 +1,5 @@
+hs.fnutils.each(applist, function(entry)
+    hs.hotkey.bind(launcherHotkey, entry.shortcut, entry.appname, function()
+        hs.application.launchOrFocus(entry.appname)
+    end)
+end)
