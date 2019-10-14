@@ -18,15 +18,23 @@
 
 ### 快速启动
 
-* <kbd>Control</kbd><kbd>Shift</kbd> + <kbd>C</kbd> `Google Chrome`
-* <kbd>Control</kbd><kbd>Shift</kbd> + <kbd>I</kbd> `iTerm`
-* <kbd>Control</kbd><kbd>Shift</kbd> + <kbd>P</kbd> `PHPStorm`
-* <kbd>Control</kbd><kbd>Shift</kbd> + <kbd>W</kbd> `WeChat`
-* <kbd>Control</kbd><kbd>Shift</kbd> + <kbd>Q</kbd> `QQ`
+* <kbd>Option</kbd> + <kbd>G</kbd> `Google Chrome`
+* <kbd>Option</kbd> + <kbd>C</kbd> `Visual Studio Code`
+* <kbd>Option</kbd> + <kbd>I</kbd> `iTerm`
+* <kbd>Option</kbd> + <kbd>P</kbd> `PHPStorm`
+* <kbd>Option</kbd> + <kbd>W</kbd> `WeChat`
+* <kbd>Option</kbd> + <kbd>Q</kbd> `QQ`
 
 
 ### 切换输入法
 
-* <kbd>Control</kbd><kbd>Shift</kbd> + <kbd>S</kbd> `搜狗输入法`
-* <kbd>Control</kbd><kbd>Shift</kbd> + <kbd>E</kbd> `系统 ABC`
-* <kbd>Control</kbd><kbd>Shift</kbd> + <kbd>.</kbd> `系统 ABC、系统简体中文，搜狗输入法轮流切换`
+* <kbd>Option</kbd> + <kbd>S</kbd> `搜狗输入法`
+* <kbd>Option</kbd> + <kbd>E</kbd> `系统 ABC`
+* <kbd>Option</kbd> + <kbd>.</kbd> `系统 ABC、系统简体中文，搜狗输入法轮流切换
+
+### 自动切换输入法
+
+
+### 其他
+
+* <kbd>Option</kbd> + <kbd>·</kbd>（中文状态的 ``` ） `搜狗输入法`
