@@ -14,6 +14,7 @@ applist = {
 appInputMethod = {
     {'/Applications/iTerm.app', 'English'},
     {'/Applications/Visual Studio Code.app', 'English'},
+    {'/Applications/PHPStorm.app', 'English'},
     {'/Applications/Xcode.app', 'English'},
     {'/Applications/Google Chrome.app', 'Chinese'},
     {'/System/Library/CoreServices/Finder.app', 'English'},
