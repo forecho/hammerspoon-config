@@ -30,11 +30,8 @@
 
 * <kbd>Option</kbd> + <kbd>S</kbd> `搜狗输入法`
 * <kbd>Option</kbd> + <kbd>E</kbd> `系统 ABC`
-* <kbd>Option</kbd> + <kbd>.</kbd> `系统 ABC、系统简体中文，搜狗输入法轮流切换
+* <kbd>Option</kbd> + <kbd>.</kbd> `系统 ABC、系统简体中文，搜狗输入法轮流切换`
 
 ### 自动切换输入法
 
-
-### 其他
-
-* <kbd>Option</kbd> + <kbd>·</kbd>（中文状态的 ``` ） `搜狗输入法`
+具体看 `config.lua` 文件里面的 `appInputMethod` 值
