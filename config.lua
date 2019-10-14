@@ -21,11 +21,10 @@ appInputMethod = {
     {'/Applications/DingTalk.app', 'Chinese'},
     {'/Applications/Kindle.app', 'English'},
     {'/Applications/NeteaseMusic.app', 'Chinese'},
-    {'/Applications/Wechat.app', 'Chinese'},
+    {'/Applications/WeChat.app', 'Chinese'},
     {'/Applications/System Preferences.app', 'English'},
     {'/Applications/Dash.app', 'English'},
     {'/Applications/MindNode.app', 'Chinese'},
-    {'/Applications/Preview.app', 'Chinese'},
     {'/Applications/wechatwebdevtools.app', 'English'},
     {'/Applications/Sketch.app', 'English'},
 }
