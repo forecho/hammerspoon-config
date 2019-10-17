@@ -24,6 +24,7 @@
 * <kbd>Option</kbd> + <kbd>P</kbd> `PHPStorm`
 * <kbd>Option</kbd> + <kbd>W</kbd> `WeChat`
 * <kbd>Option</kbd> + <kbd>Q</kbd> `QQ`
+* <kbd>Option</kbd> + <kbd>M</kbd> `Postman`
 
 
 ### 切换输入法

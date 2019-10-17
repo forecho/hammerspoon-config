@@ -9,6 +9,7 @@ applist = {
     {shortcut = 'I',appname = 'iTerm'},
     {shortcut = 'P',appname = 'PHPStorm'},
     {shortcut = 'W',appname = 'WeChat'},
+    {shortcut = 'M',appname = 'Postman'},
 }
 
 appInputMethod = {
