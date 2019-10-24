@@ -26,6 +26,7 @@ appInputMethod = {
     {'/Applications/System Preferences.app', 'English'},
     {'/Applications/Dash.app', 'English'},
     {'/Applications/MindNode.app', 'Chinese'},
+    {'/Applications/QQ.app', 'Chinese'},
     {'/Applications/wechatwebdevtools.app', 'English'},
     {'/Applications/Sketch.app', 'English'},
 }
