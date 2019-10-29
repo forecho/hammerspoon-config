@@ -9,7 +9,8 @@ applist = {
     {shortcut = 'I',appname = 'iTerm'},
     {shortcut = 'P',appname = 'PHPStorm'},
     {shortcut = 'W',appname = 'WeChat'},
-    {shortcut = 'M',appname = 'Postman'},
+    {shortcut = 'O',appname = 'Postman'},
+    {shortcut = 'Y',appname = '企业微信'},
 }
 
 appInputMethod = {
@@ -27,6 +28,7 @@ appInputMethod = {
     {'/Applications/Dash.app', 'English'},
     {'/Applications/MindNode.app', 'Chinese'},
     {'/Applications/QQ.app', 'Chinese'},
+    {'/Applications/企业微信.app', 'Chinese'},
     {'/Applications/wechatwebdevtools.app', 'English'},
     {'/Applications/Sketch.app', 'English'},
 }
