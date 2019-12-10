@@ -11,6 +11,9 @@ applist = {
     {shortcut = 'W',appname = 'WeChat'},
     {shortcut = 'O',appname = 'Postman'},
     {shortcut = 'Y',appname = '企业微信'},
+    {shortcut = 'D',appname = 'Sequel Pro Test'},
+    {shortcut = 'N',appname = '印象笔记'},
+    {shortcut = 'R',appname = 'Reeder'},
 }
 
 appInputMethod = {
