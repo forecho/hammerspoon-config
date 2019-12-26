@@ -36,3 +36,11 @@
 ### 自动切换输入法
 
 具体看 `config.lua` 文件里面的 `appInputMethod` 值
+
+### 自动开关蓝牙
+
+休眠自动关闭蓝牙，然后自动开启蓝牙。使用这个功能之前先要安装 `blueutil`
+
+```sh
+brew install blueutil
+```
