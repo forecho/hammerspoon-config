@@ -6,7 +6,7 @@ require "modules.input"
 require "modules.defaultInput"
 require "modules.bluetoothSleep"
 
-hs.hotkey.bind({'cmd', 'shift'}, 'h', function() 
+hs.hotkey.bind({'cmd', 'shift'}, 'h', function()
 	hs.alert('Hello World') 
 	speaker = hs.speech.new()
 	speaker:speak("Hammerspoon is online")

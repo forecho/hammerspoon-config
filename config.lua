@@ -14,6 +14,7 @@ applist = {
     {shortcut = 'D',appname = 'Sequel Pro Test'},
     {shortcut = 'N',appname = '印象笔记'},
     {shortcut = 'R',appname = 'Reeder'},
+    {shortcut = 'T',appname = 'Microsoft To Do'},
 }
 
 appInputMethod = {
