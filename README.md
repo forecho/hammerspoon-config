@@ -3,7 +3,12 @@
 ## 使用方法
 
 1. 安装 [Hammerspoon](http://www.hammerspoon.org/)
-2. `git clone  https://github.com/forecho/hammerspoon-config.git ~/.hammerspoon`
+2. 
+
+```
+git clone  https://github.com/forecho/hammerspoon-config.git ~/.hammerspoon
+cp config.lua.example config.lua
+```
 
 所以配置文件都在 `config.lua` 文件中，你可以按照自己的习惯或者需求修改此文件。
 
@@ -44,3 +49,7 @@
 ```sh
 brew install blueutil
 ```
+
+### 连接公司 Wi-Fi 自动静音
+
+修改配置文件中的 `workWifi` 为公司 Wi-Fi 名称，如果你的 MacBook 默认语言不是中文，则需要修改 `outputDeviceName` 的值。

@@ -1,6 +1,8 @@
 windowHotkey = {'control','command'}
 launcherHotkey = {'option'}
 inputHotkey = {'option'}
+workWifi = 'Company-Wifi'
+outputDeviceName = 'MacBook Pro扬声器'
 
 applist = {
     {shortcut = 'Q',appname = 'QQ'},
