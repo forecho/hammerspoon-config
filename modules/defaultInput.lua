@@ -1,5 +1,6 @@
 local function Chinese()
-    hs.keycodes.currentSourceID("com.apple.inputmethod.SCIM.ITABC")
+    -- hs.keycodes.currentSourceID("com.apple.inputmethod.SCIM.ITABC")
+    hs.keycodes.currentSourceID("com.tencent.inputmethod.wetype.pinyin")
     -- hs.keycodes.currentSourceID("com.sogou.inputmethod.sogou.pinyin")
 end
 

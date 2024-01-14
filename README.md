@@ -32,15 +32,11 @@ cp config.lua.example config.lua
 * <kbd>Option</kbd> + <kbd>M</kbd> `Postman`
 
 
-### 切换输入法
-
-* <kbd>Option</kbd> + <kbd>S</kbd> `搜狗输入法`
-* <kbd>Option</kbd> + <kbd>E</kbd> `系统 ABC`
-* <kbd>Option</kbd> + <kbd>.</kbd> `系统 ABC、系统简体中文，搜狗输入法轮流切换`
-
 ### 自动切换输入法
 
-具体看 `config.lua` 文件里面的 `appInputMethod` 值
+具体看 `config.lua` 文件里面的 `appInputMethod` 值。
+
+PS：目前配置的中文输入法是微信输入法。使用命令 `defaults read ~/Library/Preferences/com.apple.HIToolbox.plist | grep "Input Mode"` 获取输入法的 SourceID，然后配置 `defaultInput.lua` 文件。
 
 ### 自动开关蓝牙
 
