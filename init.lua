@@ -1,6 +1,7 @@
 require "modules.reload"
 require "config"
-require "modules.window"
+-- require "modules.window"
+require "modules.caffeine"
 require "modules.launcher"
 require "modules.defaultInput"
 require "modules.bluetoothSleep"
